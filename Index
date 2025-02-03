@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>For You ❤️🖤</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            padding: 50px;
+        }
+        h1 {
+            color: red;
+        }
+        p {
+            font-size: 18px;
+            margin: 20px 0;
+        }
+        .button {
+            background-color: red;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            font-size: 20px;
+            border-radius: 5px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #d40000;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>I'm Sorry ❤️🖤</h1>
+    
+    <p>I know I said something stupid, and I feel really bad about it.  
+       To make it up to you, I was wondering…  
+       Would you like to come to a <b>Charlotte FC</b> game with me?  
+       I promise I'll make it a fun experience (Did you know that I already have the cap?).</p>
+
+    <a href="https://www.charlottefootballclub.com/tickets" class="button">Say Yes? 😊</a>
+
+</body>
+</html>
